@@ -1,0 +1,25 @@
+* {
+    font-family: "Outfit" !important;
+}
+body {
+    background-color: #D5E1EF!important;
+}
+
+section {
+    height: 100vh;
+}
+
+.container {
+    width:20rem !important;
+    padding: 17px;
+    border-radius: 20px !important;
+}
+.container img {
+    height:288px;
+    width:auto;
+    border-radius: 10px;
+}
+.card-title {
+    line-height: 1.5;
+    font-size: 1.3rem;
+}
