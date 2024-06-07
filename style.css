@@ -11,8 +11,8 @@ section {
 
 .container {
     width:20rem !important;
-    padding: 17px;
-    border-radius: 20px !important;
+    padding: 20px;
+    border-radius: 25px !important;
 }
 .container img {
     height:288px;
