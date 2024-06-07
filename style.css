@@ -9,10 +9,10 @@ section {
     height: 100vh;
 }
 
+/* fix padding issues*/
 .container {
     width:20rem !important;
     padding-top: 20px !important;
-    
     border-radius: 25px !important;
 }
 .container img {
